@@ -46,3 +46,59 @@ span {
     font-weight: bold;
     color: rgb(112, 0, 97);
 }
+h1 {
+    color: blueviolet;
+}
+.header-type1 {
+    color: darkgreen;
+}
+.header-type2 {
+    color: darkred;
+}
+#show1 {
+    color: blue;
+}
+#show2 {
+    color: darkslateblue;
+}
+#show3 {
+    color: greenyellow;
+}
+#show4 {
+    color: mediumseagreen;
+}
+#show5 {
+    color: darkorange;
+}
+
+ul {
+    color: blue
+}
+.top-5-list {
+    color: chocolate;
+}
+
+
+
+.friend-type1 {
+    color: blueviolet;
+}
+.friend-type2 {
+    color: burlywood;
+}
+
+
+.place-type1 {
+    color: brown;
+}
+.place-type2 {
+    color: cornsilk;
+}
+
+
+.restaurant-type1 {
+    color: lavender;
+}
+.restaurant-type2 {
+    color: aqua
+}
