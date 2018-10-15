@@ -72,13 +72,12 @@ h1 {
 }
 
 ul {
-    color: blue
+    color: blue;
 }
 .top-5-list {
     color: chocolate;
+    border: 2px solid black;
 }
-
-
 
 .friend-type1 {
     color: blueviolet;
@@ -86,7 +85,11 @@ ul {
 .friend-type2 {
     color: burlywood;
 }
-
+#friend1 {color: slateblue;}
+#friend2 {color: royalblue;}
+#friend3 {color: tomato;}
+#friend4 {color: teal;}
+#friend5 {color: yellow;}
 
 .place-type1 {
     color: brown;
@@ -94,11 +97,20 @@ ul {
 .place-type2 {
     color: cornsilk;
 }
-
+#place1 {color: purple;}
+#place2 {color: orchid;}
+#place3 {color: navy;}
+#place4 {color: mediumseagreen;}
+#place5 {color: magenta;}
 
 .restaurant-type1 {
     color: lavender;
 }
 .restaurant-type2 {
-    color: aqua
+    color: aqua;
 }
+#restaurant1 {color: seagreen;}
+#restaurant2 {color: lightskyblue;}
+#restaurant3 {color: mediumpurple;}
+#restaurant4 {color: orangered;}
+#restaurant5 {color: olivedrab;}
