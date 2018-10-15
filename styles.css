@@ -1,0 +1,26 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #d8d8d8e1 
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration-line: none;
+}
+.boxes {
+    display: inline-block;
+    margin: 0.2em 1em 1em 0.2em;
+    padding: 0.2em 1em 1em 0.2em;
+    border: 2px solid rgba(110, 159, 231, 0.904);
+    border-radius: 1.5em;
+}
+:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(17, 96, 160);
+}
+span {
+    font-weight: bold;
+    color: rgb(112, 0, 97);
+}
