@@ -1,6 +1,6 @@
 body {
     font-family: 'Raleway', sans-serif;
-    background-color: #d8d8d8e1 
+    background-color: #d8d8d8e1;
 }
 h2, p, .readme-wrapper {
     text-align: center;
@@ -9,11 +9,24 @@ a {
     text-decoration-line: none;
 }
 .boxes {
-    display: inline-block;
-    margin: 0.2em 1em 1em 0.2em;
-    padding: 0.2em 1em 1em 0.2em;
+    display: block;
+    width: 20%;
+    margin: 0.2em 1em 0.2em 1em;
+    padding: 0.2em 1em 0.2em 1em;
     border: 2px solid rgba(110, 159, 231, 0.904);
     border-radius: 1.5em;
+}
+#box1 {
+    background-color: burlywood;
+}
+#box2 {
+    background-color: darkcyan;
+}
+#box3 {
+    background-color: lightblue
+}
+#box4 {
+    background-color: aquamarine
 }
 :hover {
     cursor: pointer;
