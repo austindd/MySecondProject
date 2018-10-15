@@ -15,6 +15,15 @@ a {
     padding: 0.2em 1em 0.2em 1em;
     border: 2px solid rgba(110, 159, 231, 0.904);
     border-radius: 1.5em;
+    position: relative;
+}
+.box-image {
+    width: 1em;
+    height: 1em;
+    background-color: blueviolet;
+    position: absolute;
+    top: 5%;
+    left: 5%;
 }
 #box1 {
     background-color: burlywood;
@@ -23,10 +32,10 @@ a {
     background-color: darkcyan;
 }
 #box3 {
-    background-color: lightblue
+    background-color: lightblue;
 }
 #box4 {
-    background-color: aquamarine
+    background-color: aquamarine;
 }
 :hover {
     cursor: pointer;
